@@ -1,5 +1,7 @@
 {
   # -> PHONE <- #
+  # Screen Rotation
+  hardware.sensor.iio.enable = true;
   xserver.desktopManager.phosh = {
 	    enable = true;
 			user = "ducky";
